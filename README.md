@@ -72,7 +72,9 @@ calculator-app/
 
 ### Mobile Responsive View
 
-![Mobile Screenshot](./screenshots/mobile.png)
+<img width="1296" height="927" alt="mobile" src="https://github.com/user-attachments/assets/bcd95e53-6753-4cd6-80ea-d1468cd907a7" />
+
+
 
 ---
 
