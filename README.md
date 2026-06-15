@@ -12,13 +12,11 @@ The application provides basic arithmetic operations with keyboard support, calc
 - Addition, subtraction, multiplication, and division
 - Real-time calculation display
 - Keyboard input support
-- Clear and delete functionality
 - Calculation history panel
 - Responsive mobile layout
 - Reusable Svelte components
 - Error handling for invalid expressions
 - Percentage calculations
-- Modern glassmorphism UI design
 
 ---
 
@@ -28,7 +26,6 @@ The application provides basic arithmetic operations with keyboard support, calc
 - Language: TypeScript
 - Styling: CSS
 - Icons: Lucide Svelte
-- Build Tool: Vite
 
 ---
 
@@ -51,13 +48,10 @@ calculator-app/
 │   ├── app.css
 │   └── ...
 │
-├── screenshots/
-│   ├── calculator.png
-│   └── mobile.png
-│
-├── package.json
-├── vite.config.ts
-└── README.md
+└── screenshots/
+    ├── calculator.png
+    └── mobile.png
+
 ```
 
 ---
@@ -84,9 +78,7 @@ calculator-app/
 
 - Click number buttons to enter values
 - Select operators for calculations
-- Press `=` to calculate
 - Use delete button to remove characters
-- Use `C` to clear the display
 
 ### Keyboard Controls
 
