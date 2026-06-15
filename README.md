@@ -66,7 +66,7 @@ calculator-app/
 
 ### Calculator
 
-![Calculator Screenshot](./screenshots/calculator.png)
+<img width="1900" height="1001" alt="calculator" src="https://github.com/user-attachments/assets/a836d8f2-1736-4b44-be98-b209599ca3f1" />
 
 ---
 
